@@ -1,3 +1,8 @@
+# Updated Remarks
+19.10.2023
+This is an old sample app for Android that was once on Google Play. Presumably, it won't work on the newest devices. For now, it is deprecated.
+
+Original README:
 # Introduction
 This app as a simple calculator, where you can store a couple of frequently used formulae (e.g. `V=4/3 R^3 Pi`) with arbitrary variables.
 The formulae can then be evaluated by assigning values to the variables. 
